@@ -1,5 +1,5 @@
 # Spoy-Canal-Sample-Labelling
-The Spoy Canal project aims to analyze its water chemistry and explore potential solutions to make it clean. This file helps in labeling our samples respectively.
+The Spoy Canal project aims to analyze its water chemistry and explore potential solutions to make it clean. This file helps label our samples.
 
 ## Station
 | Station no. | Abbreviation | Description |
