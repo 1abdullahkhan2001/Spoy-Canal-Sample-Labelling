@@ -4,16 +4,21 @@ The Spoy Canal project aims to analyze its water chemistry and explore potential
 ## Station
 | Station no. | Abbreviation | Description |
 |----------|----------|----------|
-|1 | St 1 | Infront of AStA office |
-|2 | St 2 | Near bridge, infront of Audimax |
-|3 | St 3 | Behind Mensa, near abandoned ship, infront of EXODUS Winterlager |
+|1 | St 1 | Near bridge, infront of Audimax |
+|2 | St 2 | Behind Mensa, near abandoned ship, infront of EXODUS Winterlager |
 
 ## Team
 | Team no. | Abbreviation | Description |
 |----------|----------|----------|
 |1 | 1| Microbiological, and Biochemical Analysis |
 |2 | 2| Inorganic contaminants Analysis |
-|3 | 3| Nitrates |
+|3 | 3| Organic contaminants Analysis |
+
+## Depth
+| Abbreviation | Description |
+|----------|----------|
+|0.5 | A depth of 0.5 m from the surface |
+|1.5 | A depth of 1.5 m from the surface |
 
 ## Date
 | Format | dd.mm.yy |
@@ -41,4 +46,4 @@ The Spoy Canal project aims to analyze its water chemistry and explore potential
 | William Megill | WM|
 
 ## Example
-A sample taken by Abdullah from station 3 on 27.07.24 at 13:10 for inorganic contaminants analysis will have a serial label no: St3_2_270724_1310_MK
+A sample taken by Abdullah from station 1 at a depth of 1.5 m on 30.09.24 at 13:10 for inorganic contaminants analysis will have a serial label no: St1_2_1.5_300924_1310_MK
