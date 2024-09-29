@@ -17,8 +17,8 @@ The Spoy Canal project aims to analyze its water chemistry and explore potential
 ## Depth
 | Abbreviation | Description |
 |----------|----------|
-|0.5 | A depth of 0.5 m from the surface |
-|1.5 | A depth of 1.5 m from the surface |
+|0.5 m| A depth of 0.5 m from the surface |
+|1.5 m| A depth of 1.5 m from the surface |
 
 ## Date
 | Format | dd.mm.yy |
@@ -46,4 +46,4 @@ The Spoy Canal project aims to analyze its water chemistry and explore potential
 | William Megill | WM|
 
 ## Example
-A sample taken by Abdullah from station 1 at a depth of 1.5 m on 30.09.24 at 13:10 for inorganic contaminants analysis will have a serial label no: St1_2_1.5_300924_1310_MK
+A sample taken by Muhammad Abdullah Khan from station 1 at a depth of 1.5 m on 30.09.24 at 13:10 for inorganic contaminants analysis will have a serial label no: St1_2_1.5m_300924_1310_MK
